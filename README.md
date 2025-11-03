@@ -20,6 +20,8 @@ Shinichi Kudo (工藤 新一 *Kudō Shin'ichi*) is the high school detective, na
 
 ------
 ### Akai Shuichi
+![Akai](https://media.tenor.com/3-23JPewOSUAAAAM/detective-conan.gif)
+
 Shuichi Akai (赤井 秀一 *Akai Shūichi*) is an FBI agent and a major figure in the battle against the Black Organization. He once assumed the identity of Dai Moroboshi (諸星 大 *Moroboshi Dai*) and infiltrated the Organization, where he was given the codename Rye (ライ *Rai*).
 
 **Aliases:**
@@ -29,8 +31,10 @@ Shuichi Akai (赤井 秀一 *Akai Shūichi*) is an FBI agent and a major figure 
 
 ------
 ### Furuya Rei
+![Rei](https://media.tenor.com/CTbtXJ3gDaMAAAAM/tooru-amuro-furuya-rei.gif)
+
 Rei Furuya (降谷 零 *Furuya Rei*), also known as Tooru Amuro (安室 透 *Amuro Tōru*) and Bourbon (バーボン *Bābon*), is a National Police Agency Security Bureau Security Planning, Chiyoda Division investigator working undercover in the Black Organization.
 
-> **Aliases:**
+**Aliases:**
 - Bourbon
 - Amuro Tooru
